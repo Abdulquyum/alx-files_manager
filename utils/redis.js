@@ -11,7 +11,7 @@ class RedisClient {
 
     this.client.on('connect', () => {
       console.log('sucess');
-    })
+    });
 
     this.client.on('error', err => console.log(err));
 
