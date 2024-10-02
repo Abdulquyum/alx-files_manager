@@ -1,0 +1,1 @@
+Building File manager duplication using nodeJS to test our understanding of the trimester specialization phase on concepts whic includes redis, express, paination, mongoDB, noSQL, kue testing framework among others
